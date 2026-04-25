@@ -94,4 +94,4 @@ Through this lab, I gained hands-on experience in identifying and fixing cloud s
 ## 👤 Author
 
 Michael Olayiwola
-Aspiring Cybersecurity / Application Security Professional
+Cybersecurity / Application Security Professional
